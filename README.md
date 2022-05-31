@@ -1,7 +1,7 @@
 # infinity stock 깃허브
 
-dataset 폴더 - 수집한 데이터
-model 폴더 - 모델 파일
+dataset 폴더 - 수집한 데이터  
+model 폴더 - 모델 파일  
 web 폴더 - 웹개발 관련 파일
 
 
