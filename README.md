@@ -5,7 +5,7 @@ model 폴더 - 모델 파일
 web 폴더 - 웹개발 관련 파일
 
 hi
-쥬만지
+쥬만지 돼지훈
 
 ## guideline
 
