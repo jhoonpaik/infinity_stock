@@ -20,19 +20,19 @@
 - 3개월
 
 ## 선정 시계열 모델(AI분석가로 명명)
-1. 아리(ARIMA)
+1. 아리(ARIMA)  
 자기 회귀 모델(AR)과 이동 평균 모델(MA)과 데이터의 정상성을 확보하기 위한 차분을 합친(I) 모델
 
-2. 마크(FBprophet)
+2. 마크(FBprophet)  
 페이스북이 만든 시계열 예측 오픈소스 라이브러리
 
-3. 매타(Nueral prophet)
+3. 매타(Nueral prophet)  
 Fbprophet에서 업그레이드된 딥러닝 시계열 예측 라이브러리
 
-4. JCH KIM(LSTM)
+4. JCH KIM(LSTM)  
 장기 메모리를 위해 개발된 인공지능 알고리즘
 
-5. GRU
+5. 그루(GRU) 
 LSTM에서 학습할 가중치 수를 줄여 간소화한 버전
 
 ## 시연화면
